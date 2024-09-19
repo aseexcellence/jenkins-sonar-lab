@@ -46,7 +46,7 @@
         </configuration>
       </plugin>
       <plugin>
-               <artifactID>maven-war-plugin</artifactID>
+               <artifactId>maven-war-plugin</artifactId>
                <version>3.3.2</version>
       </plugin>
 
